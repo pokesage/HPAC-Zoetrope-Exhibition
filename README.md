@@ -12,3 +12,4 @@ Yet to be done
 - 3D Model for Battery / Arduino Housing / Stepper 
 - Cursory Parts List
 - Code for Frame Rate changing buttons
+- Compile dimensions for Arduino Nano and other various electronics
