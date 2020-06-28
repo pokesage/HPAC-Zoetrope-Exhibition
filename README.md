@@ -1,5 +1,7 @@
 # HPAC-Zoetrope-Exhibition
-All project Files for Project
+All project Files for HPAC Zoetrope Exhibition
+
+Currently on hold due to COVID related issues...
 
 Note:
 
