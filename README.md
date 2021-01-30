@@ -10,6 +10,6 @@ Infill for 3D Print should be 0.2
 Yet to be done
 
 - 3D Model for Battery / Arduino Housing / Stepper 
-[x]Parts List
+[X]Parts List
 - Code for Frame Rate changing buttons
 - Compile dimensions for Arduino Nano and other various electronics
